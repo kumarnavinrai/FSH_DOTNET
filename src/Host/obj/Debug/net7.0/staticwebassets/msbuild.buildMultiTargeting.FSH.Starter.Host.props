@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/FSH.Starter.Host.props" />
+</Project>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "BaHQQx0z3wk=",
+  "success": true,
+  "projectFilePath": "/Users/navinkumar/Public/projects/dotnet/FSH.Starter/src/Core/Shared/Shared.csproj",
+  "expectedPackageFiles": [
+    "/Users/navinkumar/.nuget/packages/roslynator.analyzers/4.2.0/roslynator.analyzers.4.2.0.nupkg.sha512",
+    "/Users/navinkumar/.nuget/packages/stylecop.analyzers/1.2.0-beta.435/stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "/Users/navinkumar/.nuget/packages/stylecop.analyzers.unstable/1.2.0.435/stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512",
+    "/Users/navinkumar/.nuget/packages/microsoft.netcore.app.ref/7.0.19/microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "/Users/navinkumar/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.19/microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
